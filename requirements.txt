@@ -1,7 +1,6 @@
 streamlit
-pandas 
-numpy 
-yfinance 
-plotly.express
-scipy.optimize 
-datetime
+pandas
+numpy
+yfinance
+plotly
+scipy
