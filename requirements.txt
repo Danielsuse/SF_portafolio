@@ -3,5 +3,5 @@ pandas
 numpy 
 yfinance 
 plotly.express
-scipy.optimize import minimize
-datetime import datetime, timedelta
+scipy.optimize 
+datetime
